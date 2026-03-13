@@ -1,42 +1,51 @@
-<h1 align="center">Hi 👋, I'm Lakshmi</h1>
-<h3 align="center">Computer Science Engineering Student | Java | DSA | Web Development</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Lakshmi;Computer+Science+Engineering+Student;Java+Developer;Web+Development+Enthusiast" />
+</p>
+
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 ---
 
 ## 🙋‍♀️ About Me
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Software Development and Problem Solving
-- 🌱 Currently improving in Data Structures, Java, and Web Development
-- 🚀 Building projects to strengthen my development skills
+
+🎓 Computer Science Engineering Student  
+💻 Interested in Software Development and Problem Solving  
+🚀 Building projects to strengthen my development knowledge  
 
 ---
 
 ## 🛠 Skills
-- Java
-- C Programming
-- HTML
-- CSS
-- JavaScript
-- Data Structures and Algorithms
-- Object Oriented Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,c,git,github" />
+</p>
 
 ---
 
 ## 📌 Projects
-- **YAANA** – Trip Experience Sharing Platform
-- **Vaccine Tracker App** – Vaccine tracking and management project
-- **Travel Website** – Travel-related web development project
+
+- **YAANA** – Trip Experience Sharing Platform  
+- **SheCares**
 
 ---
 
 ## 📚 Currently Learning
-- Backend Development
-- Problem Solving in Java
-- Project Documentation
-- Git and GitHub
+
+- Data Structures & Algorithms  
+- Backend Development  
+- Project Documentation  
+- Git and GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lakshmi-191005&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: [Lakshmi-191005](https://github.com/Lakshmi-191005)
-- LinkedIn: Add your LinkedIn link here
+
+- GitHub: https://github.com/Lakshmi-191005
